@@ -2,7 +2,7 @@
 ## ****  Edit next 3 lines according to your environment *****
 ##************************************************************
 ## Hostname or ip address of the DataPower device 
-DPHOST=exxample.datapower.com
+DPHOST=example.datapower.com
 
 ## The INFILE is created then used each time the SSH connection is made
 INFILE=cli.txt
