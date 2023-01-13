@@ -6,4 +6,4 @@ Full details of the upgrade/migration may be found in the IBM support technote [
 The output will provide an analysis of effort that will be involved for the upgrade migration.
 For example, if the `show features` include the ITX module, the upgrade/migration techote asks for an IBM Support case to be create to obtain the scrypt3 module file to be obtained.  
 
-
+The following script will gather data from the source appliance that will assist on additional steps for the upgrade/migration: []()
