@@ -1,6 +1,7 @@
-##************************************************************
-## ****  Edit next 3 lines according to your environment *****
-##************************************************************
+##********************************************************************************
+## ****  Before running the sccript make sure you set chmod +x {file_nam}.sh *****
+## ****  Edit next 3 lines according to your environment *************************
+##********************************************************************************
 ## Hostname or ip address of the DataPower device 
 DPHOST=example.datapower.com
 
